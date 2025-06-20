@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TypeVerse/static/css/main.4c2bffd7.css",
+    "main.js": "/TypeVerse/static/js/main.9ef192e7.js",
+    "static/js/584.f9260b9b.chunk.js": "/TypeVerse/static/js/584.f9260b9b.chunk.js",
+    "index.html": "/TypeVerse/index.html",
+    "main.4c2bffd7.css.map": "/TypeVerse/static/css/main.4c2bffd7.css.map",
+    "main.9ef192e7.js.map": "/TypeVerse/static/js/main.9ef192e7.js.map",
+    "584.f9260b9b.chunk.js.map": "/TypeVerse/static/js/584.f9260b9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2bffd7.css",
+    "static/js/main.9ef192e7.js"
+  ]
+}
